@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://img-s1.onedio.com/id-563b04b825926b434d1f1b0f/rev-0/w-600/h-449/f-gif/s-988f6a7cdfe64c5e268e150b5ae169e6d7f529a9.gif" align="center" style="width: 100%" />
+</div>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alikemalmiloglu&label=Profile%20views&color=0e75b6&style=flat" alt="alikemalmiloglu" /> </p>
