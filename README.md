@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alikemalmiloglu&label=Profile%20views&color=0e75b6&style=flat" alt="alikemalmiloglu" /> </p>
 
-- 🌱 I’m currently learning **C#**
-
-- 💬 Ask me about **PHYTON**
+- 🌱 I’m currently learning **Java Spring Boot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
